@@ -10,9 +10,9 @@ Based on the data available to me, I chose the period 1990 to 2019 and limited m
 performed. I had the depression count only as a proportion of 100,000 persons. However, for better presentability, I wanted to present the absolute values based on the German 
 population. To maintain accuracy, I took into account the population change from 1990 to 2019. 
 
-### Data tables used:<br>
-mental_health.csv (source: https://ourworldindata.org/mental-health)
-number-of-internet-users.csv (source: https://ourworldindata.org/internet)
+### Data tables used:
+mental_health.csv (source: https://ourworldindata.org/mental-health) <br>
+number-of-internet-users.csv (source: https://ourworldindata.org/internet) <br>
 Population_Germany.xlsx (source: https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/) 
 
 
@@ -25,9 +25,9 @@ Auf Basis der mir vorliegenden Daten habe ich den Zeitraum 1990 bis 2019 gewähl
 durchgeführt. Mir lag die Depressionsanzahl nur als Anteil von 100.000 Personen vor. Für eine bessere Darstellbarkeit wollte ich allerdings die absoluten Werte auf Basis der deutschen 
 Bevölkerung darstellen. Zur Beibehaltung der Genauigkeit habe ich die Populationsänderung von 1990 bis 2019 berücksichtigt. 
 
-### Verwendete Datentabellen:<br>
-mental_health.csv (Quelle: https://ourworldindata.org/mental-health)
-number-of-internet-users.csv (Quelle: https://ourworldindata.org/internet)
+### Verwendete Datentabellen:
+mental_health.csv (Quelle: https://ourworldindata.org/mental-health) <br>
+number-of-internet-users.csv (Quelle: https://ourworldindata.org/internet) <br>
 Population_Germany.xlsx (Quelle: https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/) 
 
    
