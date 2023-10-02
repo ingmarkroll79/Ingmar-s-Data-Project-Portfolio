@@ -11,6 +11,7 @@ performed. I had the depression count only as a proportion of 100,000 persons. H
 population. To maintain accuracy, I took into account the population change from 1990 to 2019. 
 
 Data tables used:
+
 mental_health.csv (source: https://ourworldindata.org/mental-health)
 number-of-internet-users.csv (source: https://ourworldindata.org/internet)
 Population_Germany.xlsx (source: https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/) 
@@ -26,6 +27,7 @@ durchgeführt. Mir lag die Depressionsanzahl nur als Anteil von 100.000 Personen
 Bevölkerung darstellen. Zur Beibehaltung der Genauigkeit habe ich die Populationsänderung von 1990 bis 2019 berücksichtigt. 
 
 Verwendete Datentabellen:
+
 mental_health.csv (Quelle: https://ourworldindata.org/mental-health)
 number-of-internet-users.csv (Quelle: https://ourworldindata.org/internet)
 Population_Germany.xlsx (Quelle: https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/) 
