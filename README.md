@@ -1,3 +1,4 @@
+# SQL project - internet users vs. depressions
 ## Objective of the project
 
 My goal was to find out if there is a visible correlation between the increase in the number of Internet users and the registered number of depression. My hypothesis was, 
