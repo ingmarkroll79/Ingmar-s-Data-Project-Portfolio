@@ -1,3 +1,3 @@
 theme: jekyll-theme-slate
-title: Internet user vs. depression cases in Germany - a correlation?
-description: SQL project to evaluate a correlation between the number of Internet users and the number of depression cases in Germany - by ingmar Kroll
+title: Internet vs. depressions in Germany
+description: An SQL project with Tableau visualization by Ingmar Kroll.
