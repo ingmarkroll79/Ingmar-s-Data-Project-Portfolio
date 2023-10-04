@@ -12,7 +12,8 @@ mental_health.csv (source: https://ourworldindata.org/mental-health) <br>
 number-of-internet-users.csv (source: https://ourworldindata.org/internet) <br>
 Population_Germany.xlsx (source: https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/) 
 
-## Visualization in [Tableau](https://public.tableau.com/views/Internetusersvs_depressionsinGermany1990-2019-areachart/Blatt2?:language=de-DE&:display_count=n&:origin=viz_share_link)
+## Visualization in Tableau
+[Go to chart in Tableau](https://public.tableau.com/views/Internetusersvs_depressionsinGermany1990-2019-areachart/Blatt2?:language=de-DE&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/ingmarkroll79/SQL_project_internet_vs_depression/assets/146067161/aed7d1b0-afb2-4d5d-a170-61e303174a87)
 
 
