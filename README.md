@@ -9,8 +9,8 @@ performed. I had the depression count only as a proportion of 100,000 persons. H
 population. To maintain accuracy, I took into account the population change from 1990 to 2019. 
 
 ## Data tables used:
-mental_health.csv (source: https://ourworldindata.org/mental-health) <br>
-number-of-internet-users.csv (source: https://ourworldindata.org/internet) <br>
+mental_health.csv (source: [Our World in Data - Mental Health Data](https://ourworldindata.org/mental-health)) <br>
+number-of-internet-users.csv (source: [Our World in Data - Internet statistics](https://ourworldindata.org/internet)) <br>
 Population_Germany.xlsx (source: [Statista - demographic data](https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/))
 
 ## Visualization in Tableau
