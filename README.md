@@ -11,8 +11,7 @@ population. To maintain accuracy, I took into account the population change from
 ## Data tables used:
 mental_health.csv (source: https://ourworldindata.org/mental-health) <br>
 number-of-internet-users.csv (source: https://ourworldindata.org/internet) <br>
-Population_Germany.xlsx <br>
-(source: https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/)
+Population_Germany.xlsx (source: [Statista - demographic data](https://de.statista.com/statistik/daten/studie/2861/umfrage/entwicklung-der-gesamtbevoelkerung-deutschlands/)
 
 ## Visualization in Tableau
 [Go to chart in Tableau](https://public.tableau.com/views/Internetusersvs_depressionsinGermany1990-2019-areachart/Blatt2?:language=de-DE&:display_count=n&:origin=viz_share_link)
