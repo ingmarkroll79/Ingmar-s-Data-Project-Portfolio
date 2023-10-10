@@ -8,6 +8,7 @@ that there could be a comparable increase in both time series.
 ## Conclusion
 
 After the project, I conclude that there is no direct, visible correlation between the increase in the number of Internet users and the registered number of depressions in Germany. The curve for Internet use has risen sharply since 1990, but the curve for depression has not. It has remained at a constant level. The calculated percentages show a big difference between the total increases and also for the annual growth rates.
+With the help of this evaluation, however, it cannot be clearly ruled out that there is a correlation between Internet use and the occurrence of depression. However, the data used here are obviously not sufficient for a clear evaluation.
 
    >**Percentage increase in internet users from 1990 to 2019 in Germany:**                   73,240.15%    
    >**Percentage increase in registered cases of depression from 1990 to 2019 in Germany:**       12.24%     
