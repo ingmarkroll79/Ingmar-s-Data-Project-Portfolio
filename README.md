@@ -2,7 +2,7 @@
 
 ## Objective of the project
 
-My goal was to find out if there is a visible correlation between the increase in the number of Internet users and the registered number of depression in Germany, since Internet use has increased significantly among the general population. My hypothesis was, 
+My goal.. was to find out if there is a visible correlation between the increase in the number of Internet users and the registered number of depression in Germany, since Internet use has increased significantly among the general population. My hypothesis was, 
 that there could be a comparable increase in both time series.
 
 ## Conclusion
